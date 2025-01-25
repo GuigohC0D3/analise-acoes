@@ -1,0 +1,20 @@
+[
+    {
+        "Acao": "CXSE3.SA",
+        "Preco": 14.76,
+        "Media_Movel": 14.48,
+        "Retorno": 0.0215
+    },
+    {
+        "Acao": "BBAS3.SA",
+        "Preco": 26.62,
+        "Media_Movel": 25.9,
+        "Retorno": -0.0037
+    },
+    {
+        "Acao": "TIMS3.SA",
+        "Preco": 15.08,
+        "Media_Movel": 15.02,
+        "Retorno": -0.0208
+    }
+]

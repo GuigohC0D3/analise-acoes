@@ -1,0 +1,20 @@
+[
+    {
+        "Acao": "BBAS3.SA",
+        "Preco": 26.63,
+        "Media_Movel": 26.6,
+        "Retorno": 0.0019
+    },
+    {
+        "Acao": "PETR4.SA",
+        "Preco": 36.69,
+        "Media_Movel": 36.63,
+        "Retorno": 0.0011
+    },
+    {
+        "Acao": "CMIG4.SA",
+        "Preco": 10.49,
+        "Media_Movel": 10.48,
+        "Retorno": 0.001
+    }
+]
