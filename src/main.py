@@ -8,6 +8,8 @@ import schedule
 import time
 import threading
 import json
+import websockets
+
 
 
 # Função para realizar a análise semanal e indicar compra
